@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">RadioButtonExample</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string name="randyOrton">Randy Orton</string>
+    <string name="johnCena">John Cena</string>
+    <string name="romanReigns">Roman Reigns</string>
+    <string name="goldBerg">Gold Berg</string>
+    <string name="sheamus">Sheamus</string>
+</resources>
